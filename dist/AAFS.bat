@@ -1,0 +1,1 @@
+java -jar AAFSv2.jar
